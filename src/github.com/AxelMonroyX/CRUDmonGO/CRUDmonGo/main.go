@@ -5,6 +5,6 @@ import (
 	"github.com/AxelMonroyX/CRUDmonGO/src/github.com/AxelMonroyX/CRUDmonGO/CRUDmonGo/hello"
 )
 
-func main() {
+func hellop() {
 	fmt.Println(hello.BuildHello())
 }
